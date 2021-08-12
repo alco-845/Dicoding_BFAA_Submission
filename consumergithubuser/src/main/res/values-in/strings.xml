@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="hint_search">Cari Nama User</string>
+
+    <string name="txt_name">Nama</string>
+    <string name="txt_fav">Favorit</string>
+    <string name="txt_toast_done">Berhasil</string>
+    <string name="txt_toast_unfav">Dihapus dari Favorit</string>
+    <string name="txt_dialog_message">Apakah Anda Yakin Ingin Menghapus Item Ini?</string>
+    <string name="txt_dialog_yes">Ya</string>
+    <string name="txt_dialog_no">Tidak</string>
+
+    <string name="txt_search">Cari</string>
+    <string name="txt_setting">Pengaturan</string>
+
+    <string name="txt_fav_title">Daftar Favorit</string>
+</resources>

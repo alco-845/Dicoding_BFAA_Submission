@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Consumer Github User</string>
+    <string name="hint_search">Search Username </string>
+
+    <string name="txt_name">Name</string>
+    <string name="txt_fav">Favorite</string>
+    <string name="txt_toast_done">Success</string>
+    <string name="txt_toast_unfav">Removed from Favorite</string>
+    <string name="txt_dialog_message">Are You Sure to Delete This Item?</string>
+    <string name="txt_dialog_yes">Yes</string>
+    <string name="txt_dialog_no">No</string>
+
+    <string name="txt_search">Search</string>
+    <string name="txt_setting">Setting</string>
+
+    <string name="txt_fav_title">Favorite List</string>
+</resources>

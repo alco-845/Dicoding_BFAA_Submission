@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+
+    <PreferenceCategory
+        android:title="Language"
+        app:iconSpaceReserved="false">
+
+        <PreferenceScreen
+            android:key="@string/key_language"
+            android:selectAllOnFocus="true"
+            app:iconSpaceReserved="false"
+            android:title="@string/txt_language_title"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Reminder"
+        app:iconSpaceReserved="false">
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="@string/key_reminder"
+            app:iconSpaceReserved="false"
+            android:title="@string/txt_reminder_title" />
+
+    </PreferenceCategory>
+</PreferenceScreen>
